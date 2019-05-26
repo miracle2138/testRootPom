@@ -15,7 +15,7 @@
     </scm>
 
     <properties>
-        <testJenkins.version>0.23</testJenkins.version>
+        <testJenkins.version>0.123</testJenkins.version>
     </properties>
 
     <dependencyManagement>
