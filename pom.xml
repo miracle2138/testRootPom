@@ -35,7 +35,7 @@
     </dependencyManagement>
 
     <build>
-        <pluginManagement><!-- lock1 down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+        <pluginManagement><!-- lock1 down p4lugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
