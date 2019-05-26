@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
 
     <scm>
-        <developerConnection>https://github.com/miracle2138/testRootPom.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/miracle2138/testRootPom.git</developerConnection>
     </scm>
 
     <properties>
