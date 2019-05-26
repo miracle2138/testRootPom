@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <scm>
+        <developerConnection>https://github.com/miracle2138/testRootPom.git</developerConnection>
+    </scm>
+
     <properties>
         <testJenkins.version>1.0</testJenkins.version>
     </properties>
